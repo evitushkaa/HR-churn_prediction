@@ -1,7 +1,7 @@
 <h1> HR Churn prediction </h1>
 <p> </p>
-<h2>I have a dataset with information about employees, which includes satisfaction level (from 0 to 1), level of salary (low, medium, high), department (HR, IT, sales etc), average working hours and some other characteristics. Also there is information about churn (column 'left', 1 if employee left company and 0 if employee stayed. </h2>
-<h2> <b> My goal </b> is churn prediction: whether an employee with a specific salary, level of satisfaction, etc., will leave the company </h2>
+<h3>I have a dataset with information about employees, which includes satisfaction level (from 0 to 1), level of salary (low, medium, high), department (HR, IT, sales etc), average working hours and some other characteristics. Also there is information about churn (column 'left', 1 if employee left company and 0 if employee stayed. </h3>
+<h3> <i> My goal </i> is churn prediction: whether an employee with a specific salary, level of satisfaction, etc., will leave the company </h3>
 <p></p>
 <h3> Workinh process </h3>
 <h4> I tryed several classification models (I used classififcation, becouse i have the task of dividing the staff into two classes known in advance: those who leave the company and those who remain): </h4>
