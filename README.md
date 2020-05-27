@@ -11,7 +11,7 @@
   <li> Decision Tree Classifier </li>
   <li> Random Tree Classifier </li>
  </ul>
- <a href='https://nbviewer.jupyter.org/github/evitushkaa/HR-churn_prediction/blob/master/hr_churn_predict.ipynb' </a>
+ <a href='https://nbviewer.jupyter.org/github/evitushkaa/HR-churn_prediction/blob/master/hr_churn_predict.ipynb'> GG</a>
  <h4> Thanks to GridSearchCV and RandomizedSearchTV I optimezed accuracy of models to 95%+, but I had overfitting.</h4>
  <h4> <b> As a result </b> Randomized Tree Regressor has the best accuracy - 98%. We can almost exactly predict the dismissal of an employee </h4>
  <h3> Result </h3>
