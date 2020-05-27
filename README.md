@@ -1,6 +1,6 @@
 <h1> HR Churn prediction </h1>
 <p> </p>
-<h3>I have a dataset with information about employees, which includes satisfaction level (from 0 to 1), level of salary (low, medium, high), department (HR, IT, sales etc), average working hours and some other characteristics. Also there is information about churn (column 'left', 1 if employee left company and 0 if employee stayed. </h3>
+<h4>I have a dataset with information about employees, which includes satisfaction level (from 0 to 1), level of salary (low, medium, high), department (HR, IT, sales etc), average working hours and some other characteristics. Also there is information about churn (column 'left', 1 if employee left company and 0 if employee stayed. </h4>
 <h3> <i> My goal </i> is churn prediction: whether an employee with a specific salary, level of satisfaction, etc., will leave the company </h3>
 <p></p>
 <h3> Workinh process </h3>
